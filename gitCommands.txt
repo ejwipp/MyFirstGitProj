@@ -24,4 +24,5 @@ git checkout -b <my branch name>
 #view current branches
 git branch
 
-
+#push a branch
+git push origin <branch name>
