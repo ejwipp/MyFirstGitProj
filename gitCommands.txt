@@ -1,0 +1,18 @@
+
+# 
+git remote add origin https://github.com/ejwipp/MyFirstGitProj.git
+
+git push -u origin master
+
+
+# view the status of local files
+git status
+
+#adding a file to the repo
+git add <file>
+
+# committing the change
+git commit -m "Your message about the commit"
+
+# push the change to server
+
