@@ -26,3 +26,11 @@ git branch
 
 #push a branch
 git push origin <branch name>
+
+
+#switch back to mainline 
+git checkout master
+
+# update the local 
+git pull origin master
+
